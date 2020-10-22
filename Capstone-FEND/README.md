@@ -8,9 +8,9 @@
 ## Environment variables
 Before starting, you will need credentials for the following API's(links are provided below)
 
-- GEONAMES_USERNAMES_KEY=<http://www.geonames.org/export/web-services.html>
-- WEATHER_KEY=<https://www.weatherbit.io/account/create>
-- PIXABAY_KEY=<https://pixabay.com/api/docs/>
+- GEONAMES_USERNAMES_KEY=<>http://www.geonames.org/export/web-services.html
+- WEATHER_KEY=<>https://www.weatherbit.io/account/create
+- PIXABAY_KEY=<>https://pixabay.com/api/docs/
 
 
 ### Installing
